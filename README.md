@@ -1,7 +1,7 @@
 # exactspace_nodejs_kartik
 This is assesement which is given by EXACTSPACE as i have applied for NodeJS DEVOPS with Exactspace Technologies.
 
-The deployment link is :-
+The deployment link is :-   https://exactspace-nodejs-kartik3.onrender.com/
 # DevOps with NodeJS:
 Assignment Step 1:  Attached is the Problem statement. 
 Assignment Step 2: Deployment
